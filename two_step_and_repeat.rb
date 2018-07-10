@@ -37,6 +37,7 @@ def how_many_steps?
   # Write a loop that fulfills all criteria from Part 3 of the README.md
   steps = 0
   loop do
+    puts steps
   if steps % 2 ==0
     puts "Left"
   else puts "Right"
