@@ -7,8 +7,8 @@ def first_steps
   puts "Left foot back"
   sleep(0.5)
   puts "Right foot back"
-sleep(0.5)
-puts "Stop"
+  sleep(0.5)
+  puts "Stop"
 sleep(1)
 end
 
